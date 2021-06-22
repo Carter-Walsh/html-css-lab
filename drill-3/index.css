@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box-one {
+    background-color: lightgrey;
+    height: 100px;
+    position: relative;
+}
+
+.little-blue-box {
+    background-color: #4a90e2;
+    height: 80px;
+    width: 75px;
+    position: absolute;
+    top: 10px;
+    bottom: 10px;
+    left: 20px;
+}
+
+.text {
+    margin: 50px;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-three {
+    background-color: #4a90e2;
+    height: 150px;
+}
+
+.box-four {
+    background-color: #50e3c2;
+    height: 150px;
+}
+
+.box-five {
+    background-color: #b8e986;
+    height: 150px;
+}
+
+.box-six {
+    background-color: #f8e71c;
+    height: 150px;
+}

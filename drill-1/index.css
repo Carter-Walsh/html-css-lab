@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: #d8d8d8;
+}
+
+.header {
+    background-color: #444;
+    height: 150px;
+}
+
+.main {
+    background-color: #efefef;
+    height: 800px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.footer {
+    background-color: #222221;
+    height: 100px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
